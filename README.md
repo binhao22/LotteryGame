@@ -1,2 +1,2 @@
 # LotteryGame
-![35](https://github.com/binhao22/LotteryGame/assets/73528043/62883f54-9005-48bd-91e1-9fbd1ee8e81c)
+![35](https://github.com/binhao22/LotteryGame/assets/73528043/3861b372-b1be-409a-ad89-fbc9120d87ed)
